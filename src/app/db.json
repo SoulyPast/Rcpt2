@@ -1,0 +1,75 @@
+{
+  "receptes": [
+    {
+      "id": "1f9a75e2-6a29-4eaa-b083-d89e6b3725c2",
+      "nom": "Vedella amb bolets",
+      "elaboracio": "1/2 Vedella,1kg de bolets,1 ceba,1 tomàquet,sal,all,julivert",
+      "ingredients": "Si el que voleu es oferir un plat de qualitat, cal que quan aneu a comprar la vedella, sigui Llata, Geret ò també Filet de pobre.",
+      "reviews": [
+        {
+          "stars": 5,
+          "id_recepta": "1f9a75e2-6a29-4eaa-b083-d89e6b3725c2",
+          "createdOn": 1397490980837,
+          "body": "M'encata aquesta recepta"
+        },
+        {
+          "id_recepta": "1f9a75e2-6a29-4eaa-b083-d89e6b3725c2",
+          "createdOn": 1397490980837,
+          "body": "Mmmmmmm",
+          "stars": 3
+        },
+        {
+          "id_recepta": "1f9a75e2-6a29-4eaa-b083-d89e6b3725c2",
+          "createdOn": "19/3/2020",
+          "body": "vvvvvvvvvv",
+          "stars": "4"
+        },
+        {
+          "id_recepta": "1f9a75e2-6a29-4eaa-b083-d89e6b3725c2",
+          "createdOn": "19/3/2020",
+          "body": "que bones",
+          "stars": "3"
+        }
+      ]
+    },
+    {
+      "nom": "Risotto de ceps",
+      "elaboracio": "Preparar els ceps. Netejar-los per a que no hi quedi sorra. Picar la ceba ben fina i sofregir-la sense que arribi a torrar-se.",
+      "ingredients": [
+        "320gr d'arros",
+        "ceps",
+        "150gr formatge parmesà rallat",
+        "1 ceba",
+        "50gr mantega"
+      ],
+      "reviews": [
+        {
+          "stars": 5,
+          "body": "M'encata aquesta recepta",
+          "createdOn": 1397490980837
+        }
+      ],
+      "id": "80e774e5-4388-4f83-b108-42b55c578dae"
+    },
+    {
+      "id": 1584646480074,
+      "nom": "TAJINE THIKL que biend",
+      "elaboracio": "COSA MUY COSAS",
+      "ingredients": "JSDJ,ASJDASDA",
+      "reviews": [
+        {
+          "id_recepta": 1584646480074,
+          "createdOn": "19/3/2020",
+          "body": "EEEEEEEEEEEE",
+          "stars": "5"
+        },
+        {
+          "id_recepta": 1584646480074,
+          "createdOn": "19/3/2020",
+          "body": "cccccccccc",
+          "stars": "4"
+        }
+      ]
+    }
+  ]
+}
